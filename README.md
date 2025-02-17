@@ -284,6 +284,11 @@ Thanks to the community, this repo is getting read by more people every day.
 [![Share on X](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/LLM-engineer-handbook)
 [![Share on LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/LLM-engineer-handbook)
 
+
+
+![{1B3D4E41-C307-47BF-80AB-1B2D990A7544}](https://github.com/user-attachments/assets/1b2ac8a2-a15a-4939-aab7-af8fb48421ae)
+
+
 ---
 
 If you have any question about this opinionated list, do not hesitate to contact [Li Yin](https://www.linkedin.com/in/li-yin-ai)
